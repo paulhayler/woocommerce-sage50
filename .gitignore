@@ -1,10 +1,11 @@
-vendor/
-node_modules/
-.sass-cache
-.idea/
-=======
 composer.phar
 /vendor/
+<<<<<<< HEAD
+=======
+node_modules/
+.sass-cache/
+idea/
+>>>>>>> 2f8f8bf10e2eb32de3e1c0d3d7ffd0ad45309637
 
 # Commit your application's lock file http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
