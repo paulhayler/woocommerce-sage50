@@ -1,0 +1,14 @@
+{
+    "name": "freshrecipe/mooncup",
+    "description": "Mooncup Sage Integration",
+    "require-dev": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Paul Hayler",
+            "email": "hello@freshrecipe.co.uk"
+        }
+    ],
+    "require": {}
+}
